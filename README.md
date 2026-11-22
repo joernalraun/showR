@@ -1,4 +1,4 @@
-# Showr
+# showR
 
 Animierte Präsentationen aus einer Markdown-Datei.
 
